@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¦¬É
+™
+java:S1130:"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(–ŽÓÍÿÿÿÿÿ8“ŽÓçÝ1
+]	java:S125;"<This block of commented-out lines of code should be removed.(ÛÅ´úÿÿÿÿ8”ŽÓçÝ1
+e
+java:S1128"CRemove this unused import 'com.codeborne.selenide.SelenideElement'.(î”­ÿÿÿÿÿ8˜ŽÓçÝ1
+g
+java:S1128"ERemove this unused import 'com.codeborne.selenide.commands.GetValue'.(»ö‘‡þÿÿÿÿ8˜ŽÓçÝ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å8˜ŽÓçÝ1
+a
+java:S1128"ERemove this unused import 'com.codeborne.selenide.Condition.visible'.(ê€í/8™ŽÓçÝ1
+`
+java:S1128">Remove this unused import 'com.codeborne.selenide.Selenide.$'.(Ÿ×ÊÀûÿÿÿÿ8™ŽÓçÝ1

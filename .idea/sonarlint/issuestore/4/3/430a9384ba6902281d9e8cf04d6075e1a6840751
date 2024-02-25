@@ -1,0 +1,5 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¦¬É
+y	java:S116"XRename this field "StudentsTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´€£şÿÿÿÿ8åéÔçİ1
+R
+java:S11442"6Remove this unused private "getStudentListRow" method.(ÒÃ¸8…êÔçİ1

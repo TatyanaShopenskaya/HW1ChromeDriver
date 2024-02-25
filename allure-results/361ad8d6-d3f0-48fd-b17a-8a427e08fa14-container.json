@@ -1,0 +1,1 @@
+{"uuid":"361ad8d6-d3f0-48fd-b17a-8a427e08fa14","name":"PerfectGbTest","children":["9cb6128b-0471-4bff-a8d7-dcb8fefa93cd"],"befores":[{"name":"setupClass","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1708854883104,"stop":1708854883105}],"afters":[],"start":1708854883104,"stop":1708854897273}

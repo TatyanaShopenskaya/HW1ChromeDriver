@@ -9,3 +9,31 @@ U
 %src/test/java/Sem1/PerfectGbTest.java,a\6\a6562377b7d51d802a9c0287a1740fd6760537d0
 T
 $src/test/java/HW1/HomeWork1Test.java,f\a\fa4aeb0eba8ec2622691247288a743ca4d087128
+S
+#src/test/java/HW2/AbstractTest.java,5\9\59bfba20b07414bfbcf51d6c0929619699fc6874
+P
+ src/test/java/HW2/DummyTest.java,0\3\03043aeaa3da2258608580b8b26e0b37480f28d6
+]
+-src/main/java/org/example/Sem2/LoginPage.java,9\3\935950dd581ecb10bb58d1b7150e2b034f16b1fd
+_
+/src/main/java/org/example/Sem2/ElementPage.java,8\f\8f17ad486d3d3a50a5e97df2934e66ca75db63b3
+b
+2src/main/java/org/example/Sem2/CreatePostPage.java,a\d\ad39b25642c9ce65f712d94af2e97edbbd20630f
+h
+8src/main/java/org/example/Sem2/DummyCredentialsPage.java,3\6\36dfa7db873671f045f31b14f14a65e5abde503d
+d
+4src/main/java/org/example/Sem2/EditingDummyPage.java,8\8\880408a932889112f69000560024c9c65b66ecc8
+\
+,src/main/java/org/example/Sem2/MainPage.java,d\4\d4a31de2392f767a56b4ab2bd92f06405cd6df36
+_
+/src/main/java/org/example/Sem2/ProfilePage.java,8\f\8fcac9831c2206710129fcd779e8b3b2f39286e5
+_
+/src/main/java/org/example/Sem2/StudentPage.java,4\3\430a9384ba6902281d9e8cf04d6075e1a6840751
+^
+.src/main/java/org/example/Sem2/StudentRow.java,6\7\67e48b73e0bf3cf9040fde243d174ce4510f8835
+T
+$src/test/java/HW2/LoginPageTest.java,5\7\577d509a0b0b15fb3dfd4455a44fffedcaa28341
+P
+ src/test/java/HW2/LoginTest.java,9\f\9f5fd8ad3412c9225211592b1992ecb8dea90420
+T
+$src/test/java/HW2/HomeWork2Test.java,a\6\a6decc8bb632f402e59b84124450ff1b8d2dc814

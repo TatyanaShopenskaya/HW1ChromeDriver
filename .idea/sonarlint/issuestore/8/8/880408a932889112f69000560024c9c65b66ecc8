@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¦¬É
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ö°W8Å…ÏçÝ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Çž«‘üÿÿÿÿ8ã…ÏçÝ1
+W	java:S125"<This block of commented-out lines of code should be removed.(‹Äˆ18ï…ÏçÝ1
+i
+java:S1128"GRemove this unused import 'org.apache.commons.lang3.RandomStringUtils'.(Í¦ª¤ÿÿÿÿÿ8ï…ÏçÝ1

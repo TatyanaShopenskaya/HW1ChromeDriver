@@ -1,0 +1,1 @@
+{"uuid":"e9d7e12e-5a41-4122-9361-6df848b95b67","name":"loginAndCreateDummy()","children":["6e574df0-05c3-4991-b521-0f6c76f9553d"],"befores":[{"name":"setupTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1708856247082,"stop":1708856254181}],"afters":[],"start":1708856246811,"stop":1708856260982}
