@@ -1,0 +1,8 @@
+
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûìœ8ä¥‘£Ş1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ò€ıÿÿÿÿ8İş¿Ş1
+J
+java:S1068
+".Remove this unused "userButton" private field.(¶´Ë@8»ß—£Ş1
+N
+java:S1068"1Remove this unused "profileButton" private field.(öØô¯8»ß—£Ş1
