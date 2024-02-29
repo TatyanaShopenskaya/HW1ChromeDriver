@@ -1,4 +1,3 @@
-// Задание 2.
 
 package HW4;
 import com.codeborne.selenide.Selenide;
