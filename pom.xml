@@ -16,6 +16,11 @@
         <aspectj.version>1.8.10</aspectj.version>
         <allure.version>2.25.0</allure.version>
         <surefire.version>2.22.2</surefire.version>
+        <maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
+        <junit-platform-surefire-provider.version>1.1.0</junit-platform-surefire-provider.version>
+        <aspectj.version>1.8.10</aspectj.version>
+        <allure-junit5.version>2.6.0</allure-junit5.version>
+
     </properties>
 
     <dependencies>
@@ -67,6 +72,17 @@
             <artifactId>allure-selenide</artifactId>
             <version>${allure.version}</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-junit5</artifactId>
+            <version>${allure-junit5.version}</version>
         </dependency>
 
 

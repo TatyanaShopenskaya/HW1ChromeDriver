@@ -11,7 +11,7 @@ import org.example.Sem2.*;
 
     public class HomeWork2Test extends AbstractTest {
 
-        // 1.Логин в систему не вводя ни логин, ни пароль. На странице появляется ошибка, нужно проверить её текст
+//        // 1.Логин в систему не вводя ни логин, ни пароль. На странице появляется ошибка, нужно проверить её текст
         @Test
         void loginWithErrorTest() {
             driver.get("https://test-stand.gb.ru/login");
@@ -24,11 +24,11 @@ import org.example.Sem2.*;
             Assertions.assertEquals("401", error.getText());
         }
 
-        // 2.
-        // - Открываем модальное окно для редактирования dummy
-        //- Редактируем имя
-        //- Сохраняем
-        //- Проверяем в таблице Dummies по ID, что имя изменилось
+//        // 2.
+//        // - Открываем модальное окно для редактирования dummy
+//        //- Редактируем имя
+//        //- Сохраняем
+//        //- Проверяем в таблице Dummies по ID, что имя изменилось
         @Test
 
         void changeNameTest() throws InterruptedException {
@@ -58,10 +58,10 @@ import org.example.Sem2.*;
         }
 
 
-        //3.
-        // - Тест на проверку модального окна Credentials
-        //- Открыть модальное окно на созданном Dummy
-        //- Проверить заголовок и статический контент
+//        //3.
+//        // - Тест на проверку модального окна Credentials
+//        //- Открыть модальное окно на созданном Dummy
+//        //- Проверить заголовок и статический контент
 
         @Test
         void credentialsModalWindowTest() throws InterruptedException {
